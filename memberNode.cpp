@@ -1,7 +1,3 @@
-//Program #4 - BGInsurance Program
-// Programmer: Parker Henry
-// Class: CS 2020 section 1001
-// Due Date: April 3rd, 2022
 // Program: memberNode.cpp				       
 // This .cpp file defines what the functions created in 
 // memberNode.h do and what variables they define or return                                        
