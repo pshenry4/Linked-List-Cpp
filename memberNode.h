@@ -1,7 +1,3 @@
-//Program #4 - BGInsurance Program
-// Programmer: Parker Henry
-// Class: CS 2020 section 1001
-// Due Date: April 3rd, 2022
 // Program: memberNode.h				       
 // This .h file creates a memberNode class that is used 
 // in various other cpp files to make the client run                                         
