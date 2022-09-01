@@ -1,8 +1,3 @@
-//Program #4 - BGInsurance Program
-// Programmer: Parker Henry
-// Class: CS 2020 section 1001
-// Due Date: April 3rd, 2022
-// Program: memberList.cpp				       
 // This .cpp file defines what the functions created in 
 // memberList.h do and what variables they define or return
 // to output and change the list of members                                        
