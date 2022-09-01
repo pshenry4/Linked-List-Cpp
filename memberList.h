@@ -1,7 +1,3 @@
-//Program #4 - BGInsurance Program
-// Programmer: Parker Henry
-// Class: CS 2020 section 1001
-// Due Date: April 3rd, 2022
 // Program: memberList.h				       
 // This .h file defines what functions will be used to
 // iterate through and change the list of members.                                      
